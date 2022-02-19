@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABatStat", "ABatStat\ABatStat.csproj", "{61EDE26C-BA24-4E31-9281-5D59EAFEBB5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABatStat.Tests", "ABatStat.Tests\ABatStat.Tests.csproj", "{0853A618-09C4-4D9B-94E0-69CCAB2D78FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "abat", "abat\abat.csproj", "{5D057E25-BF72-4ABA-92DA-696347C22DD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61EDE26C-BA24-4E31-9281-5D59EAFEBB5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61EDE26C-BA24-4E31-9281-5D59EAFEBB5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61EDE26C-BA24-4E31-9281-5D59EAFEBB5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61EDE26C-BA24-4E31-9281-5D59EAFEBB5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0853A618-09C4-4D9B-94E0-69CCAB2D78FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0853A618-09C4-4D9B-94E0-69CCAB2D78FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0853A618-09C4-4D9B-94E0-69CCAB2D78FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0853A618-09C4-4D9B-94E0-69CCAB2D78FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D057E25-BF72-4ABA-92DA-696347C22DD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D057E25-BF72-4ABA-92DA-696347C22DD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D057E25-BF72-4ABA-92DA-696347C22DD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D057E25-BF72-4ABA-92DA-696347C22DD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
